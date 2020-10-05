@@ -91,3 +91,6 @@ sw.*
 
 # cross-env
 env.*.js
+
+# for github pages
+CNAME
