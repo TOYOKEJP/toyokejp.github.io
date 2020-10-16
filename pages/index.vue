@@ -18,6 +18,9 @@ body {
   @apply text-white flex justify-center items-center;
 }
 h1 {
-  @apply m-0;
+  @apply m-0 p-6;
+}
+svg {
+  @apply max-w-full h-auto align-bottom;
 }
 </style>
